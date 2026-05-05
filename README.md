@@ -36,7 +36,7 @@ A seguir, os componentes e suas vulnerabilidades exploradas:
 | `stream_otimizado.ino` | Firmware para ESP32-CAM (Arduino IDE). Transmite MJPEG a 15 FPS, resolução 640x480, qualidade JPEG ajustável. |
 | `WebServerCam.py` | Implementação alternativa de servidor MJPEG em Python (útil para testes com webcam local ou substituição do ESP32). |
 | `yolo_fiware.py` | Sistema principal de detecção de pessoas: consome o stream, executa YOLOv8, exibe contagem em tela e envia periodicamente ao FIWARE. |
-| `TCC_FATEC_2025_2_1.pdf` | Trabalho de Conclusão de Curso completo com fundamentação teórica, metodologia, análise de resultados e diretrizes de mitigação. |
+
 
 ---
 
